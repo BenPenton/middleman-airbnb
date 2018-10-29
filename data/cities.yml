@@ -1,0 +1,9 @@
+london:
+  name: "Le Wagon London"
+  address: "138 Kingsland road"
+paris:
+  name: "Le Wagon Paris"
+  address: "Paris street"
+berlin:
+  name: "Le Wagon Berlin"
+  address: "Berlin street"
