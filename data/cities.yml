@@ -7,3 +7,12 @@ paris:
 berlin:
   name: "Le Wagon Berlin"
   address: "Berlin street"
+rio:
+  name: "Le Wagon Rio"
+  address: "Rio"
+bali:
+  name: "Le Wagon Bali"
+  address: "Bali Road"
+lisbon:
+  name: "Le Wagon Lisbon"
+  address: "Lisbon ave"

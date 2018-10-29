@@ -1,19 +1,26 @@
 .avatar{
-  width: 100px;
+  width: 150px;
   border-radius: 50%;
 }
 
 .about_content{
   align-items:center;
-  width: 500px;
 }
-.list{
+.list_profiles{
+  display: flex;
+  justify-content: space-around;
+  color: rgba(0,0,0,0.5);
+
 }
 
 .about_content h1{
   display: block;
+  color :rgba(0,0,0,0.5);
 }
 
 .about{
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
