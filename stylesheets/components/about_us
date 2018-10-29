@@ -1,0 +1,13 @@
+.avatar {
+  width: 100px;
+  border-radius: 50%; }
+
+.about_content {
+  align-items: center;
+  width: 500px; }
+
+.about_content h1 {
+  display: block; }
+
+.about {
+  display: block; }
